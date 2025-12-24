@@ -72,7 +72,7 @@ const Index = () => {
         <div className="container mx-auto px-4 py-6">
           <div className="flex items-center justify-between">
             <div className="flex items-center space-x-3">
-              <div className="w-16 h-16 bg-primary rounded-lg flex items-center justify-center">
+              <div className="w-16 h-16 bg-white rounded-lg flex items-center justify-center">
                 <img src="https://yourcryptolibrary.com/wp-content/uploads/2021/12/Bitvavo-Logo-klein1.png" alt="BITVAVO Logo" className="w-10 sk-edit-loading h-10 object-cover" />
               </div>
               <div>
