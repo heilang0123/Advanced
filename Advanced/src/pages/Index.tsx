@@ -72,8 +72,8 @@ const Index = () => {
         <div className="container mx-auto px-4 py-6">
           <div className="flex items-center justify-between">
             <div className="flex items-center space-x-3">
-              <div className="w-10 h-10 bg-primary rounded-lg flex items-center justify-center">
-                <img src="https://static-us-img.skywork.ai/prod/user/head_picture/1997652330561110016_bitvavo-logo-png_seeklogo-488507.png?image_process=quality,q_90/resize,w_1280/format,webp" alt="BITVAVO Logo" className="w-6 sk-edit-loading h-6 object-cover" />
+              <div className="w-16 h-16 bg-primary rounded-lg flex items-center justify-center">
+                <img src="https://yourcryptolibrary.com/wp-content/uploads/2021/12/Bitvavo-Logo-klein1.png" alt="BITVAVO Logo" className="w-10 sk-edit-loading h-10 object-cover" />
               </div>
               <div>
                 <h1 className="text-2xl font-bold text-primary text-left pt-0 pb-0 pr-[nullpx] pl-[nullpx]">BITVAVO</h1>
